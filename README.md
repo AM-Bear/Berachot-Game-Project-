@@ -1,4 +1,4 @@
-School (JNP) Berachot Gamr Project. 
+School (JNP) Berachot Game Project. 
 
 Description:
 
